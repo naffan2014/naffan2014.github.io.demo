@@ -1,2 +1,2 @@
-feature2  和  feature1 合并之后
+ddeature2  和  feature1 合并之后
 
